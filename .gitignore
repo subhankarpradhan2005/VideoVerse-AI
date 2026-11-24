@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+downloads/
+outputs/
+temp/
+*.pyc
+*.wav
+*.mp3
+*.webm
+*.mp4
+chroma_db/
