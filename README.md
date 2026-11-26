@@ -209,7 +209,7 @@ This project is licensed under the [MIT License](LICENSE).
 **Jayaprakash Sahani**
 B.Tech CSE | Generative AI Developer
 
-GitHub: [@Jayaprakash733](https://github.com/Jayaprakash733)
+GitHub: [@subhankarpradhan2005](https://github.com/subhankarpradhan2005)
 
 ---
 
